@@ -1,2 +1,4 @@
 # hello-world-template
-The template repository for the Hello-world course on Learning Lab.
+Hi , you are on the course
+well , I am hiding my name and learning through a hidden one
+the changes to learn
